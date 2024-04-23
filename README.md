@@ -38,7 +38,7 @@
 ```
 
 ### Screenshots 
-<p align="center"><img src="https://github.com/JhonChen157/InstaGM/blob/main/cgi-bin/images/20240312_023555.png"/></p>
+<p align="center"><img src="https://github.com/ZuraKanagami/Laporan/blob/main/IMG-20240420-WA0338.jpg"/></p>
 
 ### Inside menu
 - ```[1].``` ***Dump username dari followers*** ```ON```
