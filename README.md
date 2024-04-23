@@ -13,7 +13,7 @@
 ##
 
 ### Description
-**[InstaGM](https://github.com/ZuraKanagami)** adalah sebuah script untuk cracking akun instagram. dengan sistem ```Brute Force``` yang dibuat menggunakan bahasa ***Python***. Apa si ```Brute Force``` itu?, ***Brute force adalah teknik serangan terhadap sebuah sistem [keamanan komputer](https://id.m.wikipedia.org/wiki/Keamanan_komputer) yang menggunakan percobaan terhadap semua kunci. Penyerang secara sistematis memeriksa semua kemungkinan kata sandi dan frasa sandi sampai yang benar ditemukan. Kemungkinan lain, penyerang dapat mencoba menebak kunci yang biasanya dibuat dari kata sandi menggunakan fungsi derivasi kunci.***
+**[Instagram Cracking](https://github.com/ZuraKanagami)** adalah sebuah script untuk cracking akun instagram. dengan sistem ```Brute Force``` yang dibuat menggunakan bahasa ***Python***. Apa si ```Brute Force``` itu?, ***Brute force adalah teknik serangan terhadap sebuah sistem [keamanan komputer](https://id.m.wikipedia.org/wiki/Keamanan_komputer) yang menggunakan percobaan terhadap semua kunci. Penyerang secara sistematis memeriksa semua kemungkinan kata sandi dan frasa sandi sampai yang benar ditemukan. Kemungkinan lain, penyerang dapat mencoba menebak kunci yang biasanya dibuat dari kata sandi menggunakan fungsi derivasi kunci.***
 
 ### How to install?
 - Jika kamu belum mempunyai aplikasi termux, kamu bisa download melalui link [click disini](https://f-droid.org/repo/com.termux_118.apk), dan kalau sudah di install buka aplikasinya ketik perintah dibawah ini.
